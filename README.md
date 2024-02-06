@@ -10,14 +10,15 @@
 
 ## 🙋‍♂️ About Me
 
-  - 🌱 I’m currently learning **Everything about Testing Track**
-  - First I learned ISTQB Foundation Level.
-  - I learned Manual Testing and practice many Tasks on them.
-  - I learned how to work on Jira software.
-  - I learned Web Automation by Selenium and Made many Tasks and Projects.
-  - I learned how to deal with User Interactions For Mouse & Keyboard Events and Working with Alerts and Frames.
-  - I learned how to use Data Driven Framework with TestNG.
-  - I learned how to write BDD with Cucumber Framework.
+## 🌱 I’m currently learning **Everything about Testing Track**
+- First I learned ISTQB Foundation Level.
+- I learned how to read SRS Document and make Requirments Analysis and Test Plan
+- I learned Manual Testing and practice many Tasks on them.
+- I learned how to work on Jira software.
+- I learned Web Automation by Selenium and Made many Tasks and Projects.
+- I learned how to deal with User Interactions For Mouse & Keyboard Events and Working with Alerts and Frames.
+- I learned how to use Data Driven Framework with TestNG.
+-I learned how to write BDD with Cucumber Framework.
     
 ## Connect with me:
 <p align="left">
@@ -25,7 +26,6 @@
 </p>
  📫 How to reach me **mahmoud.hosnii331@gmail.com**
   
-
 <br/>
 <br/>
 
